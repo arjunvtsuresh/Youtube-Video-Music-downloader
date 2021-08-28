@@ -1,4 +1,4 @@
-# YoutubeVideo-Music-downlaoder
+# YoutubeVideo-Music-downloader
 A shell script for youtube video and music downloading that can be run from terminal 
 
 
